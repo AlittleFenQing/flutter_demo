@@ -55,7 +55,7 @@ class _KeepAliveDemoState extends State<KeepAliveDemo> with SingleTickerProvider
         children: <Widget>[
           MyHomePage(),
           MyHomePage(),
-         MyHomePage()
+          MyHomePage()
         ],
       ),
     );
